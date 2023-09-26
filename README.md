@@ -1,2 +1,3 @@
 # MayaMantra
-team for Hack The Metaverse hackathon organized by IEEE CS Bangalore
+
+Project for Hack The Metaverse hackathon organized by IEEE CS Bangalore
